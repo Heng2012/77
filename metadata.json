@@ -1,0 +1,5 @@
+{
+  "name": "TeleSearch Pro",
+  "description": "A high-speed search engine for Telegram resources including files, videos, images, and PDFs using AI-powered grounding.",
+  "requestFramePermissions": []
+}
